@@ -1,0 +1,28 @@
+# Virtual environment
+env/
+
+# Python cache
+_pycache_/
+*.pyc
+
+# Django database
+db.sqlite3
+
+# Environment variables
+.env
+
+# Django static + media (optional)
+media/
+static/
+
+# Logs
+*.log
+
+# VS Code
+.vscode/
+
+# pyenv
+.pyenv/
+
+# Backup files
+*.bak
